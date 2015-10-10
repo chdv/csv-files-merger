@@ -1,6 +1,6 @@
 apply plugin: 'java'
 
-project.group = 'ru.pixel.files'
+project.group = 'com.dch.files'
 project.version = '1.0'
 
 repositories {
@@ -17,5 +17,4 @@ dependencies {
     compile 'org.mongodb:mongo-java-driver:3.0.3'
     compile 'org.mongodb:bson:3.0.3'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.6.0'
-    compile 'ru.pixel.commons:pxl-commons-ejb:1.0'
 }
