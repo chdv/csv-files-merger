@@ -1,7 +1,7 @@
 apply plugin: 'java'
 
 project.group = 'com.dch.files'
-project.version = '1.0'
+project.version = '1.0-SNAPSHOT'
 
 repositories {
     mavenLocal()
